@@ -4,8 +4,8 @@
   padding: 0;
   border: 0;
   font-size: 100%;
-  font-weight: 300;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
   vertical-align: baseline;
   text-decoration: none;
   list-style: none;
@@ -20,7 +20,7 @@ body{
 
 .container{
   width: 1024px;
-  margin: 30px auto;
+  margin: 10px auto;
   display: flex;
   flex-direction: column;
 }
